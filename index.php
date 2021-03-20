@@ -1,4 +1,5 @@
 <?php
+echo 'OK';
 if ($_SERVER['HTTPS'] == 'on') { //Alterar a validação de https de acordo com seu servidor web
     echo "<table>";
     echo "<tr><th>Chave</th><th>valor</th></tr>";
