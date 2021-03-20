@@ -1,0 +1,13 @@
+{
+    "name": "danielpinon/certificado",
+    "authors": [
+        {
+            "name": "DANIEL PINON",
+            "email": "danielpinon@danielpinon.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "ext-openssl": "*"
+    }
+}
